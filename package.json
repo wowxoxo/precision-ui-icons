@@ -1,5 +1,5 @@
 {
-  "name": "precision-ui-icons",
+  "name": "@iit/precision-ui-icons",
   "version": "0.1.0",
   "description": "SVG-based React icon components",
   "keywords": [
@@ -36,5 +36,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowxoxo/precision-ui-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wowxoxo/precision-ui-icons/issues"
+  },
+  "homepage": "https://github.com/wowxoxo/precision-ui-icons#readme",
+  "registry": "https://registry.npmjs.org/"
 }
