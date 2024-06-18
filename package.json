@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "prebuild": "rimraf src && rimraf dist",
-    "build": "npm run svgr && rollup -c",
+    "build": "npm run svgr && node replace-color.js && rollup -c",
     "svgr": "svgr --typescript --icon --title-prop --replace-attr-values '#012B7A=currentColor' -d src -- assets"
   },
   "author": "wowxoxo",
