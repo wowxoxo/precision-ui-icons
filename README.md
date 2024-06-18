@@ -4,8 +4,6 @@
 
 Just a repository with some React icons
 
-# Precision-ui-icons
-
 [![](https://img.shields.io/npm/v/@iit/precision-ui-icons.svg)](https://www.npmjs.com/package/@iit/precision-ui-icons) [![Generic badge](https://img.shields.io/badge/version-0.2.0-<COLOR>.svg)](https://github.com/wowxoxo/precision-ui-icons)
 
 ## Todo
