@@ -8,3 +8,4 @@ Just a repository with some React icons
 
 ## Todo
 - update deps, a bunch of them are outdated
+- typing is not working
